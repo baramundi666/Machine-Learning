@@ -1,1 +1,1 @@
-# Machine-Learning
+# Repozytorium z zadaniami z laboratorium z przedmiotu *Elementy Statystycznego Uczenia Maszynowego* - semestr letni 2023/24
